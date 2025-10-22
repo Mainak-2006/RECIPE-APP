@@ -1,0 +1,1 @@
+export const API_URL ="https://recipe-app-nu-steel.vercel.app/api"
